@@ -23,6 +23,7 @@ To run To-Do-List locally,
     ```bash
     cd frontend
     npm install
+    
 
     cd backend
     npm install
@@ -30,6 +31,7 @@ To run To-Do-List locally,
 4. Start the frontend server:
     ```bash
     npm start
+    
 
 5. Start the backend server:
     ```bash
@@ -38,3 +40,8 @@ To run To-Do-List locally,
 
 6. Open your browser and navigate to `http://localhost:3000` to access ListFlow.
 7. MongoDb Database link :- const url = `mongodb://localhost:27017/new`;
+
+
+
+
+
